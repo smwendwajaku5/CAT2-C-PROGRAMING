@@ -1,8 +1,8 @@
-//program for c structures 
+//program for c structures CAT 2
 /*
 //program for c structures
 Author: Stephen mwendwa 
-Date:20/10/2024
+Date:6/11/2024
 */
 #include<stdio.h>
 #include<string.h>
